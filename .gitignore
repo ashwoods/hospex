@@ -1,0 +1,14 @@
+*~
+*.pyc
+*.swp
+hospex/local_settings.py
+hospex/hospex.db
+hospex/site-static/
+hospex/compass/.sass-cache/
+.code_swarm
+.idea
+build
+dist
+*.egg
+*.jar
+hospex.egg-info
